@@ -52,11 +52,11 @@ Karen Fox, 2019, The Cultural Journeys of Dictionaries of National Biography; in
 
 +++
 
-<img class="r-stretch" style="margin-bottom:60px" src="/images/the_bigger_picture_v1.svg">
+<img class="r-stretch" style="margin-bottom:60px" src="images/the_bigger_picture_v1.svg">
 
 +++
 
-<img class="r-stretch" style="margin-bottom:60px" src="/images/acdh_tools_prosopography.svg">
+<img class="r-stretch" style="margin-bottom:60px" src="images/acdh_tools_prosopography.svg">
 
 +++
 
