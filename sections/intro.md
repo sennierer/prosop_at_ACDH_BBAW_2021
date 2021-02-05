@@ -1,3 +1,21 @@
+#### TOC
+
+<span style="font-size: 0.7em">
+
+* Prosopography vs biographical research <!-- .element: class="fragment" -->
+* ACDH-CH infrastructure and tools <!-- .element: class="fragment" -->
+* APIS & apps built on APIS <!-- .element: class="fragment" -->
+* Omnipot <!-- .element: class="fragment" -->
+* InTaVia <!-- .element: class="fragment" -->
+
+</span>
+    
+https://sennierer.github.io/prosop_at_ACDH_BBAW_2021/ <!-- .element: class="fragment" -->
+
+
+
++++
+
 #### Prosopography
 
 principle is simple: defining a population on the basis of one or several criteria and designing a relevant biographical questionnaire containing a range of variables or criteria, which serve to describe it in terms of social, private, public and/or cultural, ideological, or political dynamics. <!-- .element: class="fragment" style="font-style:italic"-->
